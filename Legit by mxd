@@ -1,0 +1,439 @@
+{
+  "Backtrack": {
+    "Enabled": true,
+    "Time limit": 80
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Attachements": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Enabled": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 0.6603774,
+          "Color": "#8480ff",
+          "Enabled": true
+        },
+        {
+          "Alpha": 0.5220126,
+          "Color": "#50cdff",
+          "Cover": true,
+          "Enabled": true,
+          "Ignore-Z": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff",
+    "Enabled": true
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Force baim": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Legitbot": [
+    {
+      "Between shots": false,
+      "Enabled": true,
+      "Fov": 4.62,
+      "Hitboxes": 1,
+      "Silent": true
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Legitbot Key": {
+    "Key": "MOUSE1",
+    "Key mode": 2
+  },
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Adblock": true,
+    "Aspect Ratio": 1.13,
+    "Bunny hop": true,
+    "Disable model occlusion": true,
+    "Gravity force": 408672084,
+    "Inventory Unlocker": true,
+    "Jump Bug": true,
+    "Jump Bug Key": {
+      "Key": "Z",
+      "Key mode": 2
+    },
+    "Keybind list": {
+      "Enabled": true,
+      "No Title Bar": true,
+      "Pos": {
+        "X": 1468.0,
+        "Y": 87.0
+      }
+    },
+    "Mini Jump": true,
+    "Mini Jump Key": {
+      "Key": "Z",
+      "Key mode": 2
+    },
+    "Noscope crosshair": true,
+    "Offscreen Enemies": {
+      "Alpha": 1.0,
+      "Color": "#1124ff",
+      "Enabled": true
+    },
+    "Player list": {
+      "Pos": {
+        "X": 60.0,
+        "Y": 60.0
+      }
+    },
+    "Purchase List": {
+      "Pos": {
+        "X": 60.0,
+        "Y": 60.0
+      }
+    },
+    "TOffset": 127.91,
+    "TSize": 11.86,
+    "Velocity": {
+      "Enabled": true
+    },
+    "accent": {
+      "Alpha": 1.0,
+      "Color": "#9dafff"
+    }
+  },
+  "Rage Anti aim": {
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    }
+  },
+  "Ragebot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 507,
+      "Enabled": true,
+      "Paint Kit": 421
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Triggerbot": [
+    {
+      "Hitboxes": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Disable jiggle bones": true,
+    "Disable post-processing": true,
+    "FOV": 35,
+    "Flash reduction": 50,
+    "Fog controller": {
+      "Color": [
+        0.2722513,
+        0.3718835,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Fog options": {
+      "Density": 0.213,
+      "End": 1254.45,
+      "Start": 311.39
+    },
+    "Map color": {
+      "Color": [
+        0.82198954,
+        0.8294105,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Motion Blur": {
+      "Enabled": true,
+      "Forward": true,
+      "Strength": 3.2
+    },
+    "No 3d sky": true,
+    "No blur": true,
+    "No fog": true,
+    "No grass": true,
+    "No shadows": true,
+    "Playermodel CT": 1,
+    "Playermodel T": 66,
+    "PostEnabled": true,
+    "Viewmodel": {
+      "Enabled": true,
+      "X": 1.7082,
+      "Y": 6.548,
+      "Z": -4.2705
+    }
+  }
+}
